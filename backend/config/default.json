@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://localhost:27017/load-posting-system",
+    "jwtSecret": "b47043180b401b2dc557e5d6e388f1454266c57b3257eb446ce1dee9b44403be",
+    "jwtExpire": "24h"
+  }
+  
