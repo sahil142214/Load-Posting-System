@@ -113,4 +113,4 @@ npm start
 This project is licensed under the MIT License.
 
 ## Contact
-For further inquiries, please contact [Your Contact Information].
+For further inquiries, please contact sahilsangwan0289@gmail.com .
